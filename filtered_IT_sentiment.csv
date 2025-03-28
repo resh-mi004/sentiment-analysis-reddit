@@ -1,0 +1,6 @@
+Post Title,Sentiment Score,Sentiment Label,VADER Sentiment
+"Trump calls Signal chat fallout a 'witch hunt,' says the messaging app 'could be defective'",0.0,Neutral,Negative
+Elon Musk pressured Reddit’s CEO on content moderation,0.0,Neutral,Negative
+"Pete Hegseth, Mike Waltz, Tulsi Gabbard: Private Data and Passwords of Senior U.S. Security Officials Found Online",0.0,Neutral,Positive
+Furry hackers who leaked Project 2025 firm’s data fear leader raided by feds,-0.2,Negative,Negative
+OpenAI says “our GPUs are melting” as it limits ChatGPT image generation requests,0.0,Neutral,Neutral
